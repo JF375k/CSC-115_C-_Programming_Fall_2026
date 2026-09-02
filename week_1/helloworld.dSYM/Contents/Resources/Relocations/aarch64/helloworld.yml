@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/joel375k/CPP_FALL_2026/CSC-115_C-_Programming_Fall_2026/week_1/helloworld'
+relocations:     []
+...
